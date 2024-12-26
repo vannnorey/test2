@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQLserver\\project_costmebeauty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C7C82C-AB8B-45A5-A60A-DC5771E635DF}|simple_project\\simple_project.csproj|d:\\sqlserver\\project_costmebeauty\\simple_project\\frminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9C7C82C-AB8B-45A5-A60A-DC5771E635DF}|simple_project\\simple_project.csproj|solutionrelative:simple_project\\frminvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C7C82C-AB8B-45A5-A60A-DC5771E635DF}|simple_project\\simple_project.csproj|D:\\SQLserver\\project_costmebeauty\\simple_project\\rp_invoice.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{F9C7C82C-AB8B-45A5-A60A-DC5771E635DF}|simple_project\\simple_project.csproj|solutionrelative:simple_project\\rp_invoice.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C7C82C-AB8B-45A5-A60A-DC5771E635DF}|simple_project\\simple_project.csproj|d:\\sqlserver\\project_costmebeauty\\simple_project\\frmreportinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9C7C82C-AB8B-45A5-A60A-DC5771E635DF}|simple_project\\simple_project.csproj|solutionrelative:simple_project\\frmreportinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\SQLserver\\project_costmebeauty\\simple_project\\frmInvoice.cs",
+              "RelativeDocumentMoniker": "simple_project\\frmInvoice.cs",
+              "ToolTip": "D:\\SQLserver\\project_costmebeauty\\simple_project\\frmInvoice.cs [Design]",
+              "RelativeToolTip": "simple_project\\frmInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:55:02.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReportInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\SQLserver\\project_costmebeauty\\simple_project\\frmReportInvoice.cs",
+              "RelativeDocumentMoniker": "simple_project\\frmReportInvoice.cs",
+              "ToolTip": "D:\\SQLserver\\project_costmebeauty\\simple_project\\frmReportInvoice.cs [Design]",
+              "RelativeToolTip": "simple_project\\frmReportInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:41:06.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rp_Invoice.rdlc [Design]",
+              "DocumentMoniker": "D:\\SQLserver\\project_costmebeauty\\simple_project\\rp_Invoice.rdlc",
+              "RelativeDocumentMoniker": "simple_project\\rp_Invoice.rdlc",
+              "ToolTip": "D:\\SQLserver\\project_costmebeauty\\simple_project\\rp_Invoice.rdlc [Design]",
+              "RelativeToolTip": "simple_project\\rp_Invoice.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-08-23T16:13:50.295Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
